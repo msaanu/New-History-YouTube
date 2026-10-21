@@ -1,0 +1,47 @@
+{
+  "C017": {
+    "claim": "The inspected yeoak article describes instructors, provincial performers, varied preparation and medical provision for a 1744 royal banquet.",
+    "source": "S002, early-Joseon subsection, paragraph beginning 1744년",
+    "status": "Attributed secondary account; narration explicitly separates it from the 1860s."
+  },
+  "C018": {
+    "claim": "The article describes male musicians taking on court instrumental accompaniment from the late eighteenth century and a primary female role in dance.",
+    "source": "S002, 내용",
+    "status": "Secondary summary scoped to court performance; not applied to every provincial woman."
+  },
+  "C019": {
+    "claim": "A scholarly reference describes a later copy of Gyobang gayo held in the National Library of Korea.",
+    "source": "S004, 서지적 사항",
+    "status": "Catalogue-like statement in a consulted secondary source; physical manuscript not inspected."
+  },
+  "C020": {
+    "claim": "Later status changes, associations/gwonbeon, commercial performance and regulatory medical examinations are described for the late nineteenth/early twentieth centuries.",
+    "source": "S001, 전근대 사회에서의 기생 ending and 근대 이후의 기생; S003, 연원 및 변천/내용",
+    "status": "Time-separated secondary synthesis; exact contested regulatory chronology omitted."
+  },
+  "C021": {
+    "claim": "A performance description alone does not establish a performer’s interior life.",
+    "source": "Editorial reasoning about S004 source genre",
+    "status": "Methodological interpretation, not a claim of a discovered personal testimony."
+  },
+  "C022": {
+    "claim": "The described Gyobang gayo contents include song texts, Korean originals with Classical Chinese renderings, illustrations, an ensemble including gayageum/yanggeum/pipes/haegeum/janggu, and named dances.",
+    "source": "S004, 내용, discussions of leaves/sections 1–16, 21–23, 24–39",
+    "status": "Secondary description explicitly attributed; no claim that each woman played all instruments."
+  },
+  "C023": {
+    "claim": "Jinju sword dance is identified as a regional form related to court dance, with notation and transmission discussed.",
+    "source": "S006, 내용",
+    "status": "Secondary account; no exact nineteenth-century costume or movement authentication."
+  },
+  "C024": {
+    "claim": "The Uiam Byeolje article describes spirit welcoming, offerings, music/song/dance, withdrawal of vessels and sharing food.",
+    "source": "S005, 구성 및 형식, sequence items 1–7",
+    "status": "Attributed scholarly summary. Specific counts, bodily movements and eyewitness staging omitted."
+  },
+  "C025": {
+    "claim": "The Jinju sword-dance entry cautions against treating early-twentieth-century transmitters as performers at earlier late-imperial banquets.",
+    "source": "S006, 내용, paragraph beginning 진주검무의 기능보유자로",
+    "status": "The article’s qualified assessment, not independent proof of each person’s complete biography."
+  }
+}
