@@ -1,0 +1,21 @@
+{
+  "audio_seconds": 1035.311021,
+  "word_count": 3128,
+  "script_sentences": 265,
+  "covered_sentences": 265,
+  "visual_beats": 294,
+  "generated_images_required": 98,
+  "local_graphic_templates_used": 55,
+  "image_batches": 20,
+  "unused_optional_images_not_in_pack": [
+    "A033",
+    "A040",
+    "A045",
+    "A093",
+    "A102"
+  ],
+  "timeline_has_no_gaps": true,
+  "timing_is_estimated": true,
+  "long_image_holds_over_8s": [],
+  "subsecond_visual_beats": []
+}

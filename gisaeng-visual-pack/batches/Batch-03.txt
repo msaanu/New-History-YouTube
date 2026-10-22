@@ -1,0 +1,48 @@
+You are generating production artwork for Asia’s Past, a researched history YouTube channel. Follow this entire style guide and the numbered asset prompts in this file. GENERATE THE IMAGES, not rewritten prompts.
+
+WORKFLOW
+Use the attached approved round-face reference for drawing style, not its costumes or location. Begin with A014 to establish the mature Man-deok design. If a matching approved A014 already exists, reuse it. Then generate unfinished assets in numbered order, five separate images per response if tools permit. If you can produce fewer, stop honestly and give the last completed ID. When I say CONTINUE, resume at the next unfinished ID. Never claim to work unattended, bypass limits, or report an image complete before generating it. Never assemble several scenes into one generated image. Do not automatically regenerate a completed matching asset. Track IDs, not vague descriptions. Do not generate C-prefixed cards: those will be made locally.
+
+OUTPUT
+One individual landscape 16:9 image per A-ID, preferably 1920×1080 or the highest available landscape resolution. Do not promise a resolution the tool cannot supply. Never stretch an image. Keep faces, hands and meaningful props safely within the central frame; show the full intended scene with breathing room. No montage, grid, contact sheet, split screen, border or decorative text. Identify the A-ID outside the artwork. If actual file-saving tools exist, use the A-ID as the filename and offer real file downloads; do not invent download links. PNG or high-quality JPEG is acceptable. No generated captions, legible documents, labels, logos or watermarks.
+
+APPROVED DRAWING STYLE
+Near-circular warm-ivory faces, small solid black oval eyes, simple expressive eyebrows and mouths, almost no nose. Simplified bodies with black mitten-like hands, fully coloured carefully drawn Korean clothing. Crisp outlines, vivid clear lighting and rich detailed surroundings; characters must be as sharp as the background. Light subtle texture only: no muddy paper veil, soft-focus faces, realistic anatomy, sparkling anime eyes or monochrome stick figures. Varied compositions and believable expressive poses, not repeated standing portraits. Do not duplicate Ottoman Days’ exact characters, outfits or buildings.
+
+PALETTE
+Dominant jade #245B50, warm ivory #F5EBDD, ink #202B33, terracotta #B6533D, antique gold #C6A15B. Supporting natural sky, wood, sea and crop colours are allowed. Strong foreground/background separation; no sepia haze.
+
+HISTORICAL WORLD
+Eighteenth-century Joseon: childhood and trade on Jeju, famine in 1795, court recognition and visit in 1796, Mount Geumgang the following spring. Later legacy scenes extend into the nineteenth century; modern scenes are explicitly present-day. Jeju: basalt walls, modest thatched houses, restrained local offices, wooden Korean coastal cargo vessels. Hanyang: restrained period city and palace structures, not a fantasy capital. No Japanese kimono, Chinese imperial dress, modern flags, European galleons, computers in historical scenes, modern medical equipment, invented royal luxury or unverified precise building replicas.
+
+Costume guardrail: use conservative eighteenth-century Korean garments; avoid the extreme very short jacket silhouette of later nineteenth-century imagery. Merchants and scholars are not kings. Royal round dragon insignia is reserved for the king; officials in this pack should use plain conservative robes when rank insignia is uncertain. Do not make every official red or put dragons on attendants. No unverified extravagant wigs, crowns or modern bridal hanbok. Appearance is a consistent illustrative reconstruction, not authenticated historical portraiture.
+
+CHARACTER CONTINUITY
+Man-deok mature (famine/travel): woman in mid-fifties, near-circular ivory face, small black oval eyes, subtle mature lines, black hair with slight grey at temples, simple pinned bun. Jade jeogori with ivory collar, muted terracotta chima, plain shoes. Modest practical clothing, no royal ornament.
+Man-deok middle-aged merchant: same facial proportions and clothing family, less grey; business scenes before famine. Young adult: same recognisable face, plain jade/ivory clothing, conservative hairstyle; no eroticism. Child: recognisably same face, child proportions, plain ivory/jade clothing, simple braid and no married-style bun. Older-life illustration only when specified: more grey, same identity. Do not turn her into a queen, consort or medical practitioner.
+King Jeongjo in 1796: adult man in his forties, appropriate royal black headwear and red royal robe with round dragon insignia. Keep him consistent. Lady Hyegyeong: senior royal woman, distinct older face and restrained historically informed court dress, not Man-deok in a crown. Chae Je-gong and Kim Jeong-hui are DIFFERENT men in different periods: elderly biographer versus later scholar/calligrapher. Keep their features distinguishable. Unnamed crowds must have varied round faces, not cloned copies of the protagonist.
+
+EVIDENCE AND STAGING
+Do not invent factual dialogue, abuse, deathbed scenes, exact original manuscript wording, specific patrons or a direct meeting with the king to receive the first reward. Relief purchase scenes on the mainland use anonymous traders; Man-deok is not placed there before the documented journey. Her petition, court reception and commercial scenes are illustrative reconstructions of reported actions, not exact photographic records. Generic gisaeng performance/training scenes are institutional context and do not assert her personal repertoire. Expressive faces are artistic staging, not recovered private thoughts. No beautiful image may contradict its narration cue.
+
+QUALITY CHECK EACH IMAGE
+Correct A-ID and individual frame; 16:9; approved face style; clear Korean period setting; correct character age and clothing; sharp readable hands/faces; no extra limbs, illegible fake text, royal insignia on wrong person, unintended modern object, or unnecessary crop. A different action/angle from adjacent images. Fix a failed asset before claiming completion.
+
+At the end of each response list completed IDs and next ID. Keep that list short. Do not generate the C cards, audio or video. Now follow the asset prompts supplied below.
+
+GENERATE ONLY THIS BATCH (03). Preserve completed IDs and do not repeat A014 if already generated.
+
+A011 — Grain enters relief
+Jeju government courtyard where ordinary workers pass sacks of rice to officials organising distribution; mature Man-deok stands to one side, not above everyone like a ruler. Full scene with several distinct round-faced adults, basalt wall, restrained office architecture and readable practical activity.
+
+A012 — News travels
+An unnamed official folds a written report at a local Jeju office while a messenger waits at the threshold. Abstract illegible ink only. Official in muted blue-green formal robe, no dragon insignia; messenger in plain clothing. Medium-wide diagonal composition, document clearly visible, no royal audience.
+
+A013 — A wish beyond the shore
+Mature Man-deok seen three-quarter from behind at a Jeju shoreline, looking across the sea. Her consistent pinned bun and jade jacket remain recognisable; modest cloth travel bundle nearby. Expansive clear horizon and textured basalt foreground. Illustrative contemplation, no thought bubble or invented literal dialogue.
+
+A014 — Man-deok identity portrait
+Mature Man-deok waist-up, facing slightly left with a steady attentive expression. Round ivory face, black oval eyes, subtle grey at temples, modest pinned bun, jade jeogori and terracotta chima. Soft simple ivory background with a small jade arc, not a palace. Leave right third clear for editable identity text.
+
+A015 — Childhood home
+A modest eighteenth-century Jeju home with an infant wrapped safely in ivory cloth beside an adult caregiver, neither lavish nor destitute. Basalt courtyard wall, restrained household objects, long practical period jacket and skirt on adult. Wide illustrative birth setting, not a claim to depict the exact family house.

@@ -1,0 +1,17 @@
+ASIA’S PAST — FULL GENERATION PACK
+
+1. Open a normal ChatGPT chat and attach the approved round-face image from our previous video.
+2. Upload 01-MASTER-IMAGE-PROMPTS.txt (or its Word version).
+3. Send: “Read the attached full prompt pack. Generate A014 first to lock Man-deok’s appearance, then the next five unfinished images. Generate each separately. Keep a completed-ID checklist. Do not generate any C cards.”
+4. Say “Continue with the next five unfinished images” as needed. The chat may stop earlier because of generation limits; this prompt cannot override them.
+5. Save completed images by A-ID. If names cannot be controlled during generation, rename them before local assembly. Save originals, not screenshots or compressed previews.
+6. For a fresh image chat, attach the approved style reference, approved A014, the master pack, and GENERATION-CHECKLIST.csv with completed IDs marked. The small files in batches/ are alternatives if the full pack is inconvenient; each contains the same style instructions and five scene prompts.
+7. Give your LOCAL HyperFrames chat this pack, your saved images, and the original audio 1.mp3, 2.mp3, 3.mp3. Open 05-LOCAL-ASSEMBLY-HANDOFF.md there.
+
+No images or video have been generated here. No paid API or voice generator was used for this planning pass. Audio was analysed with an already installed local speech-recognition model and FFprobe.
+
+Audio is 17:15.311 total: 1.mp3 7:27.164, 2.mp3 7:46.495, 3.mp3 2:01.652. This is shorter than the earlier 20+ minute goal. Follow this approved recording; do not slow it or add blank holds just to reach 20 minutes. Approximately 181 script words/minute.
+
+The cut sheet covers every sentence and marks extra clause-level cuts. Times are automatic word-anchored estimates, NOT manually verified frame-perfect cues. Your local editor should listen around the listed boundaries, Korean names and file joins before locking timing. Correct written names come from the script, never speech-recognition spellings.
+
+The earlier five-image test used scene numbers, not the production A-IDs. Reuse a test image only when its content and composition match the corresponding production prompt; do not assume old “Scene 001” equals A001.
