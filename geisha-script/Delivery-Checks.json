@@ -1,11 +1,13 @@
 {
-  "words": 2844,
-  "paragraphs": 123,
-  "runtime_at_167_wpm_minutes": 17.03,
+  "version": "22-minute revision",
+  "words": 3792,
+  "paragraphs": 159,
+  "target_wpm_including_pauses": 172,
+  "estimated_minutes": 22.05,
   "word_matches_text": true,
   "heading_free_narration": true,
   "no_numeric_years": true,
-  "source_type": "Historical accounts; late-Edo/Meiji chronology limitations recorded",
-  "modern_peer_reviewed_sources_directly_read": 0,
-  "named_historical_narrator": false
+  "named_historical_narrator": false,
+  "new_hardship_claims_source_mapped": true,
+  "source_chronology_limitations_retained": true
 }

@@ -13,6 +13,20 @@ A named woman's sufficiently documented working day was not established from the
 
 This is a complete research-based narrative draft, not a claim that every staged movement is an independently documented event. The practice session, dressing sequence, single evening, ordering of performance/conversation and return are connective staging. They organise reported activities into a day; they are not a universal timetable. The narration explicitly identifies the reconstruction. No speech is quoted from an invented character.
 
+## Revision: the harder side of the working day
+
+This version gives greater narrative weight to limited choice, adult-arranged training, supervision, professional composure, customer-facing work, control of the engagement fee and hostile judgement from observers. It preserves artistic competence and ordinary sociability; it does not equate difficulty with universal violence or sexual exploitation.
+
+New or expanded evidence:
+
+- **Training/purchase and liability clause — S1.** Mitford explicitly describes children being purchased for training as singers and parents signing a paper absolving the purchaser of responsibility in case of sickness or accident. The narration attributes this account to him; no original signed contract was inspected. It does not claim every geisha entered this way or assign a specific sale to the composite protagonist. His assurance that a purchaser's financial interest guaranteed good care is presented as his paternalistic reasoning and challenged, not adopted as fact. No individual illness or accident is invented.
+- **Supervised group outings — S1.** The source says performers went in pairs or groups as a check on one another. The script draws out the distinction between companionship and privacy. It does not invent a spy, report, punishment or rivalry between named colleagues.
+- **Preparation and social demands — S1/S2 plus reconstruction.** Repeating practice, checking clothing, coordinating music, attending to conversation and managing changing group attention are staging and interpretation of documented performance work. No fixed practice schedule, chronic injury, compulsory drinking, physical assault or exact private thought is asserted. The awkward conversational beat is explicitly introduced as an imagined situation; no dialogue is fabricated.
+- **Ordinary fee versus personal gift — S1.** The ordinary performance payment goes to the troupe head in the arrangement described; a separate hana can go to the performer. The revision explicitly says this does NOT establish that the woman received no pay. It does not invent deductions, debt, net wages or a fixed buyout price.
+- **Moral judgement — S2.** Bacon praises skills, wit and dress while condemning morals. The narration explicitly places her writing AFTER the Edo period and names her. This is evidence of a particular observer's judgement, not proof of the women's character or of a universal Edo opinion. No claim that every guest personally despised the performer is made.
+
+The earlier chronology limitation remains: the core business description is near-period evidence using an 1869 guide, while the intended setting is late Edo. This revision adds no new archival proof that the arrangements were identical at a precise pre-1868 date. No new modern scholarly source has been inspected in this revision.
+
 ## Research access and limitations
 
 Direct access to the Met, V&A, Britannica, National Diet Library, Internet Archive and Google Books endpoints was blocked by this cloud environment's proxy. No contents of those blocked pages are claimed as consulted. A public Met collection dataset was also unavailable through its LFS download; it contributes no claims to this script.
@@ -91,7 +105,9 @@ Source dates matter: Mitford uses an 1869 guide, after the Edo period ended. Bac
 
 ## Voiceover direction
 
-2,844 words. To land near seventeen minutes, aim for approximately 167 words per minute including short pauses. At the user's previous roughly 181-word pace it would be about 15 minutes 43 seconds. At 160 words/minute it is about 17 minutes 47 seconds. Runtime is a delivery target, not a guaranteed duration before audio exists.
+3,792 words. Target approximately 22 minutes at 172 words per minute INCLUDING pauses (about 22.05 minutes). At 167 words/minute it is about 22.71 minutes; at the user's previous 181-word pace it is about 20.95 minutes. Record a short sample and adjust delivery pace; a word count cannot guarantee exact audio length. Avoid artificially stretching the finished file merely to meet a runtime.
+
+This replaces the 17-minute draft. Use Geisha-22-Minute-Narration.docx for the new recording. The old version is retained in archive-17-minute for reference and is excluded from the new delivery ZIP. The familiar Geisha-Clean-Narration links also now point to this revision.
 
 Start directly; no logo speech or long introduction. Give the opening payment contrast a small pause. Keep the reconstruction disclosure brief and clear. Use shorter pauses at concrete turns: instrument down; leaving for engagement; entering room; music begins; dance ends; payment; departure. Do not force solemn misery into every line. The work includes artistic competence, companionship and lively sociability as well as constraints.
 
